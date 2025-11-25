@@ -88,6 +88,8 @@ Menu path: **Surface → Line/Rake → Define probe → Report → XY Plot → W
 
 **Data Points for the mesh sizes 100*5, 100*10 and 100*20 along with analytical calculations can be viewed here** 
 https://github.com/vishnutejakarnam/Pipeflow-Axial-velocity-profiles/blob/a6a351b93cc1e0bcff9d6c9de19fc1a7f419c7f1/Screenshot%202025-11-26%20034737.png
+<img width="1413" height="552" alt="Screenshot 2025-11-26 034737" src="https://github.com/user-attachments/assets/d57fdc47-e1e7-4155-855a-717a06d05143" />
+
 
 **The comparision Plot between Analytical Velocity profile and Fluent Velocity profile can be viewed in here**
 https://github.com/vishnutejakarnam/Pipeflow-Axial-velocity-profiles/blob/d87249deafc459c2a0fff393a95c1e2ba8d007e5/Screenshot%202025-11-26%20034737.png
