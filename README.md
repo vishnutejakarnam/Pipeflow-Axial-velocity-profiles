@@ -86,4 +86,13 @@ which enables the Behavior option under the Details of Edge Sizing table. Then c
 Menu path: **Surface → Line/Rake → Define probe → Report → XY Plot → Write to File**.
 
 
+**Data Points for the mesh sizes 100*5, 100*10 and 100*20 along with analytical calculations can be viewed here** 
+https://github.com/vishnutejakarnam/Pipeflow-Axial-velocity-profiles/blob/a6a351b93cc1e0bcff9d6c9de19fc1a7f419c7f1/Screenshot%202025-11-26%20034737.png
+
+
+**The comparision Plot between Analytical Velocity profile and Fluent Velocity profile can be viewed in here**
+
+
+
+**The velocity profile for the mesh size 100*20 at five different locations as mentioned above can be viewed here**
 
