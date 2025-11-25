@@ -95,4 +95,5 @@ https://github.com/vishnutejakarnam/Pipeflow-Axial-velocity-profiles/blob/a6a351
 
 
 **The velocity profile for the mesh size 100*20 at five different locations as mentioned above can be viewed here**
+https://github.com/vishnutejakarnam/Pipeflow-Axial-velocity-profiles/blob/e2b8f4dee2049bc05ecb253cf510d56c19a0ba6c/Screenshot%202025-10-29%20021249.png
 
